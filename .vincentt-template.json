@@ -33,6 +33,21 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/cat/CatModel.tsx",
+    "src/cat/ExperienceStatus.tsx",
+    "src/cat/Hud.tsx",
+    "src/cat/Stage.tsx",
+    "src/cat/config.ts",
+    "src/cat/state.ts",
+    "src/cat/treats.ts",
+    "src/cat/world.test.ts",
+    "src/cat/world.ts",
+    "src/DevMediaSwitcher.tsx",
+    "src/cat/Ground.tsx",
+    "src/cat/HandControl.tsx",
+    "src/cat/hands.test.ts",
+    "src/cat/hands.ts",
+    "src/cat/emotes.ts"
   ]
 }

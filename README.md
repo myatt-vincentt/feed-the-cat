@@ -1,3 +1,25 @@
+# Feed the Cat
+
+A little toon cat lives on a round peach floor floating over your camera — with a cushion to nap
+on and a water bowl. It wanders, now and then curling up on the cushion for a nap, always staying
+on the floor and walking round the props. Feed it: tap the floor (or point and quick-pinch) and a
+random treat — a fish, a drumstick or a kibble pile — drops there; flick a pinch to throw one. The
+cat runs over and eats it, getting a little chubbier with every meal. Point your index finger and
+a laser dot appears for it to chase. Tap it (or pinch on it) to pet it — too often and it gets
+grumpy. Its mood shows in a bubble (❗ 😋 😻 😾 😼 💤). Turn the stage with a drag or a moving fist;
+zoom with a pinch (two fingers or both hands).
+
+- Model: "Toon Cat FREE" (https://skfb.ly/6TKrP) by Omabuarts Studio, licensed under Creative
+  Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+  (`public/models/toon_cat_free.glb`). The app credits it on screen. It plays its own animation;
+  nothing is added to its rig.
+- Dev preview without a camera: the media switcher (☰) starts on the SDK's "Person Fullbody"
+  video as the backdrop; click the floor to feed, click the cat to pet, drag to turn, scroll to
+  zoom. An optional local clip goes at `dev-media/room.mp4` (see `dev-media/README.md`).
+- Tuning: `src/cat/config.ts`. How it works: `PLAN.md`.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
